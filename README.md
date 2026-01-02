@@ -155,11 +155,25 @@ To use a different backend, simply update this URL.
 
 ## 📱 Screenshots
 
-### Main Features
-- **Accounts Overview**: Dashboard with total balance and account list
-- **Account Details**: Individual account view with transaction access
-- **Transaction List**: Complete transaction history with type indicators
-- **Forms**: Clean, validated forms for creating/editing data
+### Accounts Overview
+Dashboard showing all accounts with total balance and quick access to account details.
+
+![Accounts Overview](screenshots/01-accounts-overview.jpeg)
+
+### Account Detail
+Detailed view of a single account with balance, status, and quick access to transactions.
+
+![Account Detail](screenshots/02-account-detail.jpeg)
+
+### Transaction List
+Complete transaction history with credit/debit indicators and transaction details.
+
+![Transaction List](screenshots/03-transaction-list.jpeg)
+
+### Account Form
+Clean, validated form for creating and editing account information.
+
+![Account Form](screenshots/04-account-form.jpeg)
 
 ## 🛠️ Technical Details
 
